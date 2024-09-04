@@ -1,2 +1,9 @@
 - pickles
+<<<<<<< Updated upstream
 - tomatoes
+=======
+- tomatoes
+- cookies
+- wine
+- plants
+>>>>>>> Stashed changes

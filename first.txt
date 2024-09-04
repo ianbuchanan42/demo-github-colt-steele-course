@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Catch all for testing git
+=======
+null
+>>>>>>> Stashed changes
